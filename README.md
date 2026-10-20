@@ -24,6 +24,9 @@ nunca borra tus diseños, fuentes ni la conexión al Drive del equipo.
 **Android**: abre el APK. Android pedirá permiso para «instalar apps de origen desconocido»
 (a tu navegador o a Drive): acéptalo solo para esto. Las siguientes versiones las instala la
 propia app (te pedirá ese permiso una vez para ella).
+Si aparece **Google Play Protect** («Se recomienda analizar la app»): *Analizar app* o
+*Más detalles → Instalar sin analizar* (pasa porque la app no está en la Play Store).
+Para Chromebooks y tabletas x86: `AWS-SBG-Studio-android-x86_64.apk`.
 
 **Windows**: abre el instalador. Si aparece «Windows protegió tu PC»: *Más información* →
 *Ejecutar de todas formas* (la app es del grupo y no está firmada). No pide administrador.
